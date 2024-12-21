@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: Aquamarine;
+    padding: 5px;
+    border-radius: 10px;
+}
+h1 {
+    color: DodgerBlue;
+    text-align: center;
+    font-size: 60px;
+}
+footer {
+    background-color: blue;
+    padding: 5px;
+}
+footer p {
+    background-color: white;
+    color: rgb(116, 116, 214);
+    padding: 5px;
+}
+
+.fill{
+    background-color: DodgerBlue;
+    padding:5px;
+    color: white;
+    border-radius: 5px;
+    border:10px solid black;
+}
+main{
+  padding: 5px;
+
+}
+
+p{
+    font-size:20px;
+}
+h2 {
+    color: red;
+    background-color: brown;
+    border-radius: 5px;
+    border:10px solid black;
+
+}
+a {
+    text-decoration: none;
+    color: blueviolet;
+    background-color: purple;
+     border-radius: 5px;
+    border:5px solid black;
+
+}
